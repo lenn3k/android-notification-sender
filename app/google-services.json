@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "884554815976",
+    "firebase_url": "https://blade-notification-sender.firebaseio.com",
+    "project_id": "blade-notification-sender",
+    "storage_bucket": "blade-notification-sender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884554815976:android:b51ab8db433a71c6",
+        "android_client_info": {
+          "package_name": "be.ordina.vuzix.blade.notificationsender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884554815976-s6c231ed92hg9gcjlsqctddtds0ov0ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "be.ordina.vuzix.blade.notificationsender",
+            "certificate_hash": "dc58856eb884e4d4139d5393106cde16e5b42773"
+          }
+        },
+        {
+          "client_id": "884554815976-lqst813rgir0k1cgjohohibjqtlm9ov0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQUzpWIWXDKtHAvkRh48xN5OuJ-RdRY1E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884554815976-lqst813rgir0k1cgjohohibjqtlm9ov0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
